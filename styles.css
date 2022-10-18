@@ -1,0 +1,133 @@
+body{ 
+
+background: black; 
+
+   margin: 0px; 
+
+    } 
+
+.container{ 
+
+background: white; 
+
+margin: auto; 
+
+width: 600px; 
+
+      } 
+
+div.container img{ 
+
+width: 100%; 
+
+} 
+
+div.container p{ 
+
+ 
+ 
+
+    margin: 5px; 
+
+} 
+
+.title{ 
+
+display: inline-block; 
+
+width: 600px; 
+
+ 
+
+} 
+
+.likes{ 
+
+    width: 100%; 
+
+    font-size: 30px; 
+
+    
+
+    } 
+
+div{ 
+
+    box-sizing: border-box; 
+
+} 
+
+ 
+
+div.container .title  div:first-child { 
+
+display: inline-block; 
+
+    width: 10%; 
+
+padding:  25px; 
+
+font-size: 30px; 
+
+ 
+ 
+
+} 
+
+div.container .title .nombre{ 
+
+    display: inline-block; 
+
+    width: 80%; 
+
+    padding: 10px;    
+
+     
+
+} 
+
+ 
+
+ div.container .title  div:last-child{ 
+
+    width: 10%; 
+
+    text-align: right; 
+
+    display: inline-block; 
+
+    padding: 20px; 
+
+   font-size: 30px; 
+
+ } 
+
+div.container .likes div:first-child{ 
+
+    display: inline-block; 
+
+    width: 80%; 
+
+     
+
+  
+
+} 
+
+div.container .likes div:last-child{ 
+
+    width: 20%; 
+
+    display: inline-block; 
+
+    text-align: right; 
+
+    padding-right: 20px; 
+
+} 
+
+h3,h4{ 
+
+    margin:0; 
+
+ } 
